@@ -3,7 +3,7 @@
 The course was a higher education course, and had 19 subjects spread throughout 4 semesters (2 years). I started the course in 2017, and finished it in 2019.  
 Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System). Naturally the 2 years corresponded to 120 ECTS.
 
-## Year 1
+### Year 1
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
@@ -20,7 +20,7 @@ Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit
 | [Operating Systems](#) | 2 | 17 | 5 |
 | [Information Systems I](#) | 2 | 14 | 5 |
 
-## Year 2
+### Year 2
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ The course had 32 subjects spread throughout 6 semesters (3 years). I started th
 In the end the total number of ECTS was 185.  
 Since I finished the previous course, some of the subjects were automatically credited (I did not have to redo the subjects). This also means I had more free time, and so, I decided to do some subjects earlier.
 
-## Year 1
+### Year 1
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Since I finished the previous course, some of the subjects were automatically cr
 | [Programming](#) | 2 | 20 | 5 |
 | [Technologies and Computer's Architecture](#) | 2 | 16 | 5 |
 
-## Year 2
+### Year 2
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
@@ -70,7 +70,7 @@ Since I finished the previous course, some of the subjects were automatically cr
 | [Advanced Programming](#) | 2 | 19 | 5 |
 | [Operating Systems II](#) | 2 | 16 | 5 |
 
-## Year 3
+### Year 3
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Since I finished the previous course, some of the subjects were automatically cr
 | [Ethics and Deontology](#) | 2 | 15 | 3 |
 | [Internship](#) | 2 | 19 | 27 |
 
-## Credited
+### Credited
 
 | Subject | Grade | ECTS |
 | --- | --- | --- |
