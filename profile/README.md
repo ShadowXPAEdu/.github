@@ -11,4 +11,4 @@ The `README.md` files, inside each repository, contains the assignment, objectiv
 
 The [Coimbra Institute of Engineering](https://isec.pt) is a higher education polytechnic institution of engineering, based in Coimbra, Portugal [[1]](https://en.wikipedia.org/wiki/Instituto_Superior_de_Engenharia_de_Coimbra).  
 
-Follow [this link](/profile/COURSES_ISEC.md) to view the courses I took during my stay in this school.
+Follow [this link](/isec/README.md) to view the courses I took during my stay in this school.
