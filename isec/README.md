@@ -86,11 +86,11 @@ Since I finished the previous course, some of the subjects were automatically cr
 | --- | --- | --- |
 | [Databases](#) | 17 | 5 |
 | [Management](#) | 17 | 5 |
-| [Introduction to Programming](#) | 17 | 5 |
-| [Introduction to Networking](#) | 17 | 5 |
-| [Digital Systems](#) | 17 | 5 |
+| [Introduction to Programming](https://github.com/ShadowXPAEdu/introduction-to-programming) | 17 | 5 |
+| [Introduction to Networking](https://github.com/ShadowXPAEdu/introduction-to-networking) | 17 | 5 |
+| Digital Systems | 17 | 5 |
 | [Information Systems I](#) | 17 | 5 |
-| [Web Technologies](#) | 17 | 4 |
+| [Web Technologies](https://github.com/ShadowXPAEdu/web-technologies) | 17 | 4 |
 
 **Final Grade:** 17
 
