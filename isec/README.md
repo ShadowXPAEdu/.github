@@ -13,7 +13,7 @@ Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit
 | Mathematics | 1 | 17 | 5 |
 | Technologies and Computer's Architecture | 1 | 16 | 5 |
 | [Web Technologies](https://github.com/ShadowXPAEdu/web-technologies) | 1 | 18 | 5 |
-| [Databases I](#) | 2 | 17 | 5 |
+| [Databases I](https://github.com/ShadowXPAEdu/databases-i) | 2 | 17 | 5 |
 | [Human Computer Interaction](#) | 2 | 16 | 4 |
 | [Object Oriented Programming](#) | 2 | 18 | 5 |
 | [Web Programming I](#) | 2 | 17 | 6 |
@@ -84,7 +84,7 @@ Since I finished the previous course, some of the subjects were automatically cr
 
 | Subject | Grade | ECTS |
 | --- | --- | --- |
-| [Databases](#) | 17 | 5 |
+| [Databases](https://github.com/ShadowXPAEdu/databases-i) | 17 | 5 |
 | [Management](#) | 17 | 5 |
 | [Introduction to Programming](https://github.com/ShadowXPAEdu/introduction-to-programming) | 17 | 5 |
 | [Introduction to Networking](https://github.com/ShadowXPAEdu/introduction-to-networking) | 17 | 5 |
