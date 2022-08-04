@@ -7,8 +7,8 @@ Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
-| [Introduction to Digital Systems](#) | 1 | 16 | 5 |
-| [Introduction to Programming](#) | 1 | 19 | 5 |
+| Introduction to Digital Systems | 1 | 16 | 5 |
+| [Introduction to Programming](https://github.com/ShadowXPAEdu/introduction-to-programming) | 1 | 19 | 5 |
 | [Introduction to Networking](#) | 1 | 19 | 5 |
 | [Mathematics](#) | 1 | 17 | 5 |
 | [Technologies and Computer's Architecture](#) | 1 | 16 | 5 |

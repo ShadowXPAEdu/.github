@@ -5,7 +5,7 @@ This organization holds most of the projects made during my ([@ShadowXPA](https:
 ## Repositories
 
 Each repository holds all the code produced. Some may not work, others may require adicional setup. Either way, since this is exclusively for archiving, I will not be troubleshooting.  
-The `README.md` files, inside each repository, contains the assignment, objective, team, final grade, and my conclusions about the work and what could be improved.  
+The **README.md** files, inside each repository, contains the assignment, objective, team, final grade, and my conclusions about the work and what could be improved.  
 
 ## Coimbra Institute of Engineering (ISEC)
 
