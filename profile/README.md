@@ -1,6 +1,6 @@
 # About
 
-This organization holds most of the projects made during my ([@ShadowXPA](https://github.com/ShadowXPA)) academic career.  
+This organization holds most of the projects made during my ([@ShadowXPA](https://github.com/ShadowXPA)) academic career. It also includes projects done with colleagues.  
 
 ## Repositories
 
