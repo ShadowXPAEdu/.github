@@ -8,29 +8,29 @@ Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
 | Introduction to Digital Systems | 1 | 16 | 5 |
-| [Introduction to Programming](https://github.com/ShadowXPAEdu/introduction-to-programming) | 1 | 19 | 5 |
-| [Introduction to Networking](https://github.com/ShadowXPAEdu/introduction-to-networking) | 1 | 19 | 5 |
+| [Introduction to Programming](https://github.com/ShadowXPAEdu/tpsi-introduction-to-programming) | 1 | 19 | 5 |
+| [Introduction to Networking](https://github.com/ShadowXPAEdu/tpsi-introduction-to-networking) | 1 | 19 | 5 |
 | Mathematics | 1 | 17 | 5 |
 | Technologies and Computer's Architecture | 1 | 16 | 5 |
-| [Web Technologies](https://github.com/ShadowXPAEdu/web-technologies) | 1 | 18 | 5 |
-| [Databases I](https://github.com/ShadowXPAEdu/databases-i) | 2 | 17 | 5 |
-| [Human Computer Interaction](#) | 2 | 16 | 4 |
-| [Object Oriented Programming](#) | 2 | 18 | 5 |
-| [Web Programming I](#) | 2 | 17 | 6 |
-| [Operating Systems](#) | 2 | 17 | 5 |
-| [Information Systems I](#) | 2 | 14 | 5 |
+| [Web Technologies](https://github.com/ShadowXPAEdu/tpsi-web-technologies) | 1 | 18 | 5 |
+| [Databases I](https://github.com/ShadowXPAEdu/tpsi-databases-i) | 2 | 17 | 5 |
+| [Human Computer Interaction](https://github.com/ShadowXPAEdu/tpsi-human-computer-interaction) | 2 | 16 | 4 |
+| [Object Oriented Programming](https://github.com/ShadowXPAEdu/tpsi-object-oriented-programming) | 2 | 18 | 5 |
+| [Web Programming I](https://github.com/ShadowXPAEdu/tpsi-web-programming-i) | 2 | 17 | 6 |
+| Operating Systems | 2 | 17 | 5 |
+| Information Systems I | 2 | 14 | 5 |
 
 ### Year 2
 
 | Subject | Semester | Grade | ECTS |
 | --- | --- | --- | --- |
-| [Databases II](#) | 1 | 16 | 5 |
-| [Data Integration](#) | 1 | 19 | 4 |
-| [Organization, Management, and Quality](#) | 1 | 19 | 5 |
-| [Web Programming II](#) | 1 | 17 | 6 |
-| [Java Programming for Mobile Devices](#) | 1 | 16 | 5 |
-| [Information Systems II](#) | 1 | 18 | 5 |
-| [Internship](#) | 2 | 16 | 30 |
+| [Databases II](https://github.com/ShadowXPAEdu/tpsi-databases-ii) | 1 | 16 | 5 |
+| [Data Integration](https://github.com/ShadowXPAEdu/tpsi-data-integration) | 1 | 19 | 4 |
+| Organization, Management, and Quality | 1 | 19 | 5 |
+| [Web Programming II](https://github.com/ShadowXPAEdu/tpsi-web-programming-ii) | 1 | 17 | 6 |
+| [Java Programming for Mobile Devices](https://github.com/ShadowXPAEdu/tpsi-java-programming-mobile-devices) | 1 | 16 | 5 |
+| Information Systems II | 1 | 18 | 5 |
+| [Internship](https://github.com/ShadowXPAEdu/tpsi-internship) | 2 | 16 | 30 |
 
 **Final Grade:** 17
 
