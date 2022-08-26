@@ -84,13 +84,13 @@ Since I finished the previous course, some of the subjects were automatically cr
 
 | Subject | Grade | ECTS |
 | --- | --- | --- |
-| [Databases](https://github.com/ShadowXPAEdu/databases-i) | 17 | 5 |
-| [Management](#) | 17 | 5 |
-| [Introduction to Programming](https://github.com/ShadowXPAEdu/introduction-to-programming) | 17 | 5 |
-| [Introduction to Networking](https://github.com/ShadowXPAEdu/introduction-to-networking) | 17 | 5 |
+| [Databases](https://github.com/ShadowXPAEdu/tpsi-databases-i) | 17 | 5 |
+| Management | 17 | 5 |
+| [Introduction to Programming](https://github.com/ShadowXPAEdu/tpsi-introduction-to-programming) | 17 | 5 |
+| [Introduction to Networking](https://github.com/ShadowXPAEdu/tpsi-introduction-to-networking) | 17 | 5 |
 | Digital Systems | 17 | 5 |
-| [Information Systems I](#) | 17 | 5 |
-| [Web Technologies](https://github.com/ShadowXPAEdu/web-technologies) | 17 | 4 |
+| Information Systems I | 17 | 5 |
+| [Web Technologies](https://github.com/ShadowXPAEdu/tpsi-web-technologies) | 17 | 4 |
 
 **Final Grade:** 17
 
