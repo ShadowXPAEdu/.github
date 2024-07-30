@@ -33,7 +33,7 @@ Each year corresponds to 60 [ECTS](https://en.wikipedia.org/wiki/European_Credit
 | [Internship](https://github.com/ShadowXPAEdu/tpsi-internship) | 30 | C | 16 | 2 |
 
 **Final Grade:** 17/20  
-**GPA:** 3.533/4.0
+**GPA:** 3.650/4.0
 
 # Bachelor's in Informatics Engineering (LEI)
 
@@ -94,6 +94,6 @@ Since I finished the previous course, some of the subjects were automatically cr
 | [Web Technologies](https://github.com/ShadowXPAEdu/tpsi-web-technologies) | 4 | B | 17 |
 
 **Final Grade:** 17/20  
-**GPA:** 3.610/4.0
+**GPA:** 3.624/4.0
 
 **\*** - Subject is from the following year.
